@@ -1,36 +1,52 @@
-# 👩‍💻 Dorcas Wanja Njeri  
+# who am I?
 
-Hi there! 👋 I'm **Dorcas Njeri**, a coding newbie on a journey
-to conquer the tech world
-(one line of code at a time).
-I’m currently part of the Foundation's track at MIT Emerging Talent Program,
-diving deep into **Python**, **Git**, and all things **data science**.  
+Hello I'm **Dorcas Wanja Njeri**
 
-## 🌱 My learning adventures
+I'm an aspiring data scientist and chemical Engineer with a passion for learning, growth,building meaningful connections and a full time foodie😋
 
-- 🐍 Tackling **Python Programming** with lots of  curiosity and caffeine. 😊
-- 🛠️ Mastering **Git and GitHub**, AKA the art of version control.  
-- 📊 Discovering the secrets of **data science** (step aside, Sherlock!).  
+## My journey so far
 
-### 🎯 My Current Goals
+I recently graduated with a degree in **chemical engineering**.
+I am now immersing myself in **Data Science** through the **MIT Emerging Talent Foundations Track**.
 
-- Crack the coding basics like a pro. 💪  
-- Build small projects that scream, “I’m learning, but I’m awesome!”  
-- Collaborate with cool people (yes, that means YOU!).😉
+I'm currently mastering the fundamentals of python, Github and Visual studio code as I build a strong foundation in Data Science
 
-### 📫 Connect with me
+## what lights my fire🔥
 
-- 🌐 [LinkedIn][https://www.linkedin.com/in/dorcas-wanja/]
+I believe in the power of curiosity, connection and creativity. This values guide everything I do.
 
-[https://www.linkedin.com/in/dorcas-wanja/]: https://www.linkedin.com/in/dorcas-wanja/
+- **Curiosity**: I am endlessly fascinated by how things work and I love diving into new things
+- **Connection**: Building genuine relationships and learning from others inspires me.
+- **Creativity**: I enjoy thinking outside the box to solve problems in fresh, innovative ways.
 
-### ⚡ Fun Fact
+## Skills I’m Developing  
 
-I’m not just a coder-in-training—I’m also a bookworm 📚
-I love diving into fictional worlds.
-When I’m not learning, you’ll find me binge-reading novels or exploring new hobbies.
-Let’s grow together!🌟
+Here’s what I’m currently focused on:  
 
-<!--I am keeping the "!" to show my anticipation-->
+- **Programming**: Learning Python and getting comfortable with GitHub.  
+- **Tools**: Working with Visual Studio Code and other essential software for Data Science.  
+- **Fields of Interest**: Data Science, Chemical Engineering, and Project Management.
 
-## I look forward to working with you!
+## A Little More About Me  
+
+- I’m an avid reader, especially when it comes to novels that offer new perspectives.  
+- ✨ I believe in setting intentions and manifesting the life I want to live.  
+- 🎧 I like to spend time listening to podcasts, especially on topics like personal development, politics, ,technology and comedy especially.
+I try to be as happy as possible cause life's too short to be otherwise 😉
+- Fitness is a big part of my life right now, and I’m working on building a healthy, balanced lifestyle.
+
+## Let’s Connect  
+
+I’m always open to connecting with others in the tech and learning communities. Feel free to reach out if:  
+
+- You have tips or resources to help me with my coding journey.  
+- You’d like to share recommendations for books, podcasts, or other resources.  
+- You’re interested in collaborating on beginner-friendly projects or discussions.
+- You're a vibe to be around 😁
+  
+Feel free to reach out to me on:  
+
+- [LinkedIn](https://www.linkedin.com/in/dorcas-wanja/)
+
+<!--I am keeping the "?"and "!" to indicate anticipation-->
+### Made it this far? Let’s connect and create something awesome! 🤝🏽
