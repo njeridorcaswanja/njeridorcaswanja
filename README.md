@@ -3,7 +3,8 @@
 Hello, I'm **Dorcas Wanja Njeri**.
 
 I'm an aspiring data scientist and chemical engineer.
-Passionate about learning,growth,building meaningful connections,and a full-time foodie😋.
+Passionate about learning,growth,building meaningful connections,
+and a full-time foodie😋.
 
 ## My Journey So Far
 
